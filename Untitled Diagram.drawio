@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T19:22:23.862Z" agent="5.0 (X11)" etag="aFR_EnF3vUNOvsdc5OoA" version="16.6.2" type="github"><diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">7ZhNj5swEIZ/DcdKgM1Hrkl3t5c9RdqevTCAtQZHxlmS/vraMHw1QWmkVtkDySEz7wwee54BRThkV55eFDsUrzIF4fhuenLId8f3PerG5scq506JKAq54ikmjcKe/wIUXVSPPIV6lqilFJof5mIiqwoSPdOYUrKZp2VSzKseWA4Xwj5h4lL9yVNdoOq57hj4ATwvsHQcYOCdJR+5kscK61Wygi5Ssn4ZTK0LlspmIpEnh+yUlLqzytMOhG1r37HuuueF6LBlBZX+mwtIRIHQMPYhJcQD+IYrfDJxxDZsjzWvoK4dPxRmzW3KP42ZWxOZd7opMgnh8fS576apa8AZZ9sUXMP+wBIbaczsGK3QpTCeZ8y2cWD35xpvaJB1UlYXQySRJU/QzmSln1nJhR21N1ApqxjKOFe2ta2/k0KqdkvEdcNNWzLjQkz0LLBfW1wr+QGTSNh+huNN+9w3DpSG00TCvr+ALEGrs0nBKCE4A3h7eDH6zThstJ+1YjJng8hwwPNh7ZG0MRD2dfA0MKfJWJDR9xg2HrsCfq/tDeK73sryFksazFnSS5ReeAXlIP5TlP4iymBFeS/KIHwoS7LIkqwsb7GMvDlL4j6UJV1kGa0sb7H0Nl+KZbDIMl5Z3mLpx3/89SEPZRkusvRXlrdYhv6XYhktsqQry3tZ0uihLONFluHK8t5n7H9ladzxnUUbm7wTIk+/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-23T20:18:22.155Z" agent="5.0 (X11)" etag="uIga8EIKGLheFM8vkM2b" version="16.6.2" type="github">
+  <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
+    <mxGraphModel dx="2692" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="374e34682ed331ee-1" value="&lt;font style=&quot;font-size: 51px&quot;&gt;DEVOPS&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="330" y="180" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-1" value="&lt;div style=&quot;font-size: 34px&quot;&gt;&lt;font style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;plan&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;Cette phase permet de &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;définir la&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt; valeur &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;commerciale&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt; et les exigences.&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-100" width="270" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-2" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;release&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;jenkins , codeship&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="430" y="610" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-3" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;build&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;Cette phase consiste à gérer les versions logicielles codées a l&#39;étape précédante, avec &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;Docker, Ansible, Puppet, Chef, jekins&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="840" y="310" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-4" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;operate&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Cette phase permet de gérer les logiciels en production à l&#39;aide des logiciels Ansible, Puppet,&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="210" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;monitoring&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;Cette phase permet d&#39;identifier&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt; les problèmes affectant une version &lt;br&gt;logicielle en production et de collecter les informations &lt;br&gt;correspondantes à l&#39;aide des logiciels New Relic, Datadog, Grafana, &lt;br&gt;Wireshark, Splunk&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-100" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 34px&quot;&gt;code&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;Cette phase inclut la conception logicielle et la création du code logiciel à l&#39;aide des logiciels GitHub, GitLab, Bitbucket &lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="790" y="20" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-7" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;test&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;Cette phase comprend des tests continus vise à assurer une qualité de code optimale à l&#39;aide des&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt; logiciels &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="720" y="560" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;deploy&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;Cette phase peut inclure des outils &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;de gestion, de coordination, de &lt;br/&gt;planification et d&#39;automatisation de la mise en production des produits,&lt;br/&gt; avec Puppet, Chef, Ansible, Jenkins, Kubernetes,&lt;br/&gt;Docker&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="90" y="510" width="270" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="5i6qtr7rw1_O23sAtvoN-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="45236fa5f4b8e91a-1" target="45236fa5f4b8e91a-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="450" as="sourcePoint" />
+            <mxPoint x="530" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5i6qtr7rw1_O23sAtvoN-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.427;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45236fa5f4b8e91a-6" target="45236fa5f4b8e91a-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="250" as="sourcePoint" />
+            <mxPoint x="1040" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5i6qtr7rw1_O23sAtvoN-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="45236fa5f4b8e91a-3" target="45236fa5f4b8e91a-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="570" as="sourcePoint" />
+            <mxPoint x="1050" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5i6qtr7rw1_O23sAtvoN-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;exitX=0.033;exitY=0.739;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="45236fa5f4b8e91a-7" target="45236fa5f4b8e91a-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="450" as="sourcePoint" />
+            <mxPoint x="530" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5i6qtr7rw1_O23sAtvoN-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="45236fa5f4b8e91a-2" target="45236fa5f4b8e91a-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="450" as="sourcePoint" />
+            <mxPoint x="530" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5i6qtr7rw1_O23sAtvoN-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="45236fa5f4b8e91a-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="530" as="sourcePoint" />
+            <mxPoint x="530" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5i6qtr7rw1_O23sAtvoN-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;exitX=0.432;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="45236fa5f4b8e91a-4" target="45236fa5f4b8e91a-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="530" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5i6qtr7rw1_O23sAtvoN-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;exitX=1.014;exitY=0.393;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.037;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45236fa5f4b8e91a-5" target="45236fa5f4b8e91a-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="450" as="sourcePoint" />
+            <mxPoint x="530" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
